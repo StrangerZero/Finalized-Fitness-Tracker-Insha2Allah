@@ -1,0 +1,11 @@
+===== User Report =====
+Name: Majed
+ID: U2
+Email: majed@gmail.com
+
+--- Activities ---
+Activity: Attending KU for a WHOLE day | Duration: 8.0 hrs | Calories: 50.0 | Date: 2024-11-08 00:00 | Time: Tuesday
+
+--- Goals ---
+Goal ID: 15 | Description: Run 30 km | Start Date: 2024-01-01 | End Date: 2024-01-08 | Status: Pending
+========================

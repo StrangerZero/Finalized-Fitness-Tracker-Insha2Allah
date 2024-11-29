@@ -1,0 +1,7 @@
+Name: ExampleName, ID: U1, Email: email@example.com, Phone: 0534567890, Address: America, DOB: 2024-11-29, Password: Example123123!
+Name: Majed, ID: U2, Email: majed@gmail.com, Phone: 0511111111, Address: bab al 7ara, DOB: 2004-08-15, Password: Majed123123!
+Name: Saif, ID: U3, Email: saif@gmail.com, Phone: 0522222222, Address: wra baytkm, DOB: 2004-03-04, Password: Saif123123!
+Name: Mohamed, ID: U4, Email: mohamed@gmail.com, Phone: 0533333333, Address: 3dal al b8alah, DOB: 2004-06-07, Password: Mohamed123123!
+Name: Bushra, ID: U5, Email: bushra@gmail.com, Phone: 0544444444, Address: Main Campus, DOB: 1995-03-01, Password: Bushra123123!
+Name: Tester, ID: U6, Email: tester@gmail.com, Phone: 0555555555, Address: Testvillia The Land of Testers, DOB: 0010-10-01, Password: Tester123123!
+Name: New User, ID: U7, Email: user@gmail.com, Phone: 0599999999, Address: User Valhalla, DOB: 0011-11-06, Password: User123123!
